@@ -1,4 +1,0 @@
-#! /bin/bash
-echo -n "Sisesta kasutajanimi: "
-read kasutajanimi
-useradd $kasutajanimi
